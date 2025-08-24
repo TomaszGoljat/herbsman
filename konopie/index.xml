@@ -2,122 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Konopie - właściwości lecznicze, kannabinoidy oraz kultura konopna. on Herbsman</title>
-    <link>http://localhost:1313/konopie/</link>
+    <link>https://public-herbsman.netlify.app/konopie/</link>
     <description>Recent content in Konopie - właściwości lecznicze, kannabinoidy oraz kultura konopna. on Herbsman</description>
     <image>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://public-herbsman.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://public-herbsman.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-PL</language>
-    <lastBuildDate>Fri, 17 Jun 2022 07:29:44 +0200</lastBuildDate><atom:link href="http://localhost:1313/konopie/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Jun 2022 07:29:44 +0200</lastBuildDate><atom:link href="https://public-herbsman.netlify.app/konopie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jak i dlaczego należy samodzielnie testować produkty konopne?</title>
-      <link>http://localhost:1313/konopie/testowanie-cbd/</link>
+      <link>https://public-herbsman.netlify.app/konopie/testowanie-cbd/</link>
       <pubDate>Wed, 18 Jan 2023 10:22:55 +0100</pubDate>
       
-      <guid>http://localhost:1313/konopie/testowanie-cbd/</guid>
+      <guid>https://public-herbsman.netlify.app/konopie/testowanie-cbd/</guid>
       <description>Czy wiedziałeś, że większość produktów konopnych jest nieprawidłowo oznakowana? Najczęściej stężenie kannabinoidów podane na opakowaniu różni się znacząco od faktycznego. Poniżej zapoznasz się z szeregiem badań i testów na ten temat.</description>
     </item>
     
     <item>
       <title>Czym jest alternatywny kannabinoid HHC?</title>
-      <link>http://localhost:1313/konopie/co-to-hhc-kannabinoid/</link>
+      <link>https://public-herbsman.netlify.app/konopie/co-to-hhc-kannabinoid/</link>
       <pubDate>Wed, 27 Jul 2022 12:04:11 +0200</pubDate>
       
-      <guid>http://localhost:1313/konopie/co-to-hhc-kannabinoid/</guid>
+      <guid>https://public-herbsman.netlify.app/konopie/co-to-hhc-kannabinoid/</guid>
       <description>HHC to jeden z najnowszych kannabinoidów pochodzących z konopi. Ma duży potencjał, ale rodzi też wiele pytań. Na wiele z nich odpowiem w tym artykule.</description>
     </item>
     
     <item>
       <title>Czym są terpeny?</title>
-      <link>http://localhost:1313/konopie/terpeny-konopne/</link>
+      <link>https://public-herbsman.netlify.app/konopie/terpeny-konopne/</link>
       <pubDate>Tue, 07 Jun 2022 09:46:13 +0200</pubDate>
       
-      <guid>http://localhost:1313/konopie/terpeny-konopne/</guid>
+      <guid>https://public-herbsman.netlify.app/konopie/terpeny-konopne/</guid>
       <description>W związkach odpowiedzialnych za zapach konopi - terpenach - może drzemać ukryty leczniczy potencjał. Czym są te substancje? Jak współdziałają z kannabinoidami oraz jakie zastosowanie mają najobficiej występujące w konopiach terpeny?</description>
     </item>
     
     <item>
       <title>Jak działa susz CBD?</title>
-      <link>http://localhost:1313/konopie/jak-dziala-susz-cbd/</link>
+      <link>https://public-herbsman.netlify.app/konopie/jak-dziala-susz-cbd/</link>
       <pubDate>Mon, 06 Jun 2022 10:48:50 +0200</pubDate>
       
-      <guid>http://localhost:1313/konopie/jak-dziala-susz-cbd/</guid>
+      <guid>https://public-herbsman.netlify.app/konopie/jak-dziala-susz-cbd/</guid>
       <description>Jak działa susz CBD? Jakich efektów powinno się oczekiwać po dobrej jakości produkcie? Opis subiektywnych efektów działania suszu legalnej konopi siewnej.</description>
     </item>
     
     <item>
       <title>Czy CBD jest legalne?</title>
-      <link>http://localhost:1313/konopie/czy-cbd-jest-legalne/</link>
+      <link>https://public-herbsman.netlify.app/konopie/czy-cbd-jest-legalne/</link>
       <pubDate>Sat, 02 Apr 2022 18:19:22 +0100</pubDate>
       
-      <guid>http://localhost:1313/konopie/czy-cbd-jest-legalne/</guid>
+      <guid>https://public-herbsman.netlify.app/konopie/czy-cbd-jest-legalne/</guid>
       <description>Na bieżąco aktualizowany status prawny konopi w Polsce. Jakie konopie są legalne? Czym marihuana różni się od konopi? Jak wygląda sytuacja prawna u naszych sąsiadów?</description>
     </item>
     
     <item>
-      <title>Czy CBD jest dobre na sen?</title>
-      <link>http://localhost:1313/konopie/cbd-sen/</link>
-      <pubDate>Tue, 25 Jan 2022 18:04:15 +0100</pubDate>
-      
-      <guid>http://localhost:1313/konopie/cbd-sen/</guid>
-      <description>&lt;p&gt;Wraz ze wzrostem liczby ludności dotkniętej bezsennością zainteresowanie zaczęły przyciągać &lt;strong&gt;konopie indyjskie&lt;/strong&gt;, znane od tysiącleci jako źródło &lt;em&gt;stanu podwyższonego relaksu&lt;/em&gt;.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;p&gt;Wpływ CBD na jakość snu przebadano już wielokrotnie. Jedno z najnowszych badań, na grupie 72 dorosłych osób, Czterdziestu ośmiu uczestników zanotowała poprawę w ciągu pierwszych 30 dni eksperymentu. &lt;sup id=&#34;fnref1:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;br&gt;
-Ankieta przeprowadzona na ponad półtorej tysiąca korespondentów w znacznej części potwierdziła przewidywania naukowców co do zbawiennego wpływu CBD na sen.&lt;sup id=&#34;fnref2:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;&lt;strong&gt;62 min&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;&lt;strong&gt;20 min&lt;/strong&gt;&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;BEZ CBD&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;Z CBD&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;Czas do zaśnięcia&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: right&#34;&gt;Czas do zaśnięcia&lt;/th&gt;
-          &lt;th&gt;&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;62 min&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;20 min&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;BEZ CBD&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Z CBD&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;https://books.google.com/books?id=o4_pLqCOyDsC&amp;amp;pg=PA157&#34;&gt;Peter G. Stafford; Jeremy Bigwood (1992). &amp;ldquo;Psychedelics Encyclopedia&amp;rdquo;&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref1:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref2:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Czym różni się CBG od CBD?</title>
-      <link>http://localhost:1313/konopie/roznice-pomiedzy-cbd-cbg/</link>
+      <link>https://public-herbsman.netlify.app/konopie/roznice-pomiedzy-cbd-cbg/</link>
       <pubDate>Thu, 13 Jan 2022 08:45:33 +0100</pubDate>
       
-      <guid>http://localhost:1313/konopie/roznice-pomiedzy-cbd-cbg/</guid>
+      <guid>https://public-herbsman.netlify.app/konopie/roznice-pomiedzy-cbd-cbg/</guid>
       <description>Alternatywą dla CBD jest Kannabigerol (CBG). Przyjrzymy się różnicom pomiędzy tymi dwoma kannabinoidami oraz badaniom naukowym nad CBG. W czym może okazać się lepszy od Kannabidiolu?</description>
     </item>
     
