@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Etnobotanika - rytualne i medyczne zastosowanie roślin psychoaktywnych. on Herbsman</title>
+    <link>http://localhost:1313/etnobotanika/</link>
+    <description>Recent content in Etnobotanika - rytualne i medyczne zastosowanie roślin psychoaktywnych. on Herbsman</description>
+    <image>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-PL</language>
+    <lastBuildDate>Fri, 17 Jun 2022 06:24:40 +0200</lastBuildDate><atom:link href="http://localhost:1313/etnobotanika/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amanita Muscaria - Sprawdzony przepis na suszonego muchomora</title>
+      <link>http://localhost:1313/etnobotanika/amanita-sprawdzony-przepis/</link>
+      <pubDate>Thu, 31 Oct 2024 17:56:30 +0100</pubDate>
+      
+      <guid>http://localhost:1313/etnobotanika/amanita-sprawdzony-przepis/</guid>
+      <description>Sposób przygotowania kapeluszy Amanita Muscaria, uwzględniający proces suszenia, przechowywania i dekarboksylacji materiału.</description>
+    </item>
+    
+    <item>
+      <title>Kanna - historia, dawkowanie i efekty</title>
+      <link>http://localhost:1313/etnobotanika/kanna-dawkowanie-efekty/</link>
+      <pubDate>Sun, 24 Jul 2022 07:08:22 +0200</pubDate>
+      
+      <guid>http://localhost:1313/etnobotanika/kanna-dawkowanie-efekty/</guid>
+      <description>Kanna (Sceletium Tortuosum) to jedna z najbardziej obiecujących roślin stosowanych przy leczeniu depresji. Przyjrzymy się historii, dawkowaniu oraz działaniu tego naturalnego SRI.</description>
+    </item>
+    
+    <item>
+      <title>Sinicuichi (Heimia Salicifolia) - &#39;Słoneczny otwieracz&#39; </title>
+      <link>http://localhost:1313/etnobotanika/heimia-salicifolia-sinicuichi/</link>
+      <pubDate>Fri, 24 Jun 2022 07:08:22 +0200</pubDate>
+      
+      <guid>http://localhost:1313/etnobotanika/heimia-salicifolia-sinicuichi/</guid>
+      <description>Heimia Salicifolia - znana szerzej pod nazwą Sinicuichi - to jedna z najważniejszych roślin psychoaktywnych w arsenale uzdrowicieli z Ameryki Środkowej. Przyjrzyjmy się jej zastosowaniu, działaniu, badaniom naukowym oraz sposobie jej przygotowania.</description>
+    </item>
+    
+    <item>
+      <title>Xochipilli - Książę Kwiatów</title>
+      <link>http://localhost:1313/etnobotanika/xochipilli-ksiaze-kwiatow/</link>
+      <pubDate>Mon, 20 Jun 2022 11:00:09 +0200</pubDate>
+      
+      <guid>http://localhost:1313/etnobotanika/xochipilli-ksiaze-kwiatow/</guid>
+      <description>Posąg Xochipilli - azteckiego Dionizosa - wzbudził swego czasu wiele kontrowersji. Przedstawiony w amoku enteogenicznej ekstazy otoczony jest symbolami psychodelicznych roślin, którym przyjrzymy się w tym artykule.</description>
+    </item>
+    
+    <item>
+      <title>Amazońska Guayusa - historia i teraźniejszość</title>
+      <link>http://localhost:1313/etnobotanika/ilex-guayusa/</link>
+      <pubDate>Fri, 17 Jun 2022 09:57:55 +0200</pubDate>
+      
+      <guid>http://localhost:1313/etnobotanika/ilex-guayusa/</guid>
+      <description>Guayusa to naturalne źródło kofeiny, które w odróżnieniu od kawy jedocześnie stymuluje i wycisza.	Przyjrzyjmy się jej historii i zastosowaniu na przestrzeni dziejów.</description>
+    </item>
+    
+    <item>
+      <title>Kava Kava - odurzający pieprz z Polinezji</title>
+      <link>http://localhost:1313/etnobotanika/kava-kava/</link>
+      <pubDate>Mon, 13 Jun 2022 08:13:26 +0200</pubDate>
+      
+      <guid>http://localhost:1313/etnobotanika/kava-kava/</guid>
+      <description>Kava Kava (Piper Methysticum) to relaksujący w działaniu korzeń z wysp Oceanu Spokojnego. Przyjrzyjmy się jego historii, legendom oraz tradycyjnemu zastosowaniu. Na koniec dowiemy się jak przygotować z niego psychoaktywny napój.</description>
+    </item>
+    
+    <item>
+      <title>Afrykański korzeń do kontaktu z duchami przodków</title>
+      <link>http://localhost:1313/etnobotanika/korzen-snu-silene-capensis/</link>
+      <pubDate>Wed, 08 Jun 2022 11:38:40 +0200</pubDate>
+      
+      <guid>http://localhost:1313/etnobotanika/korzen-snu-silene-capensis/</guid>
+      <description>Silene Capensis - Afrykański Korzeń Snu to fascynująca roślina oraz narzędzie, które powinno znaleźć się w arsenale każdego zainteresowanego świadomym śnieniem oraz OoBE. Przyjrzyjmy się badaniom naukowym, tradycjom oraz współczesnemu przepisowi na przyrządzenie tego korzenia.</description>
+    </item>
+    
+  </channel>
+</rss>
